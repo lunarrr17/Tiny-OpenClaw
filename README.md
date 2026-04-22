@@ -1,6 +1,6 @@
-<h1><span style="color:red">Tiny-OpenClaw</span></h1>
+<h1 style="color:red">Tiny-OpenClaw</h1>
 
-<b><span style="color:red">Brief Idea of Tiny-OpenClaw :</span></b><br> 
+<b style="color:red">Brief Idea of Tiny-OpenClaw :</b><br> 
 
 1) Runs on a Mac/ Windows/ Linux machine
 
@@ -16,7 +16,7 @@
 
 
 
-<b><span style="color:red">Components That Make Up Tiny-OpenClaw:</span></b><br>
+<b style="color:red">Components That Make Up Tiny-OpenClaw:</b><br>
 
 Before we start coding, let’s understand the 8 components that make up Tiny-OpenClaw.
 
